@@ -1,4 +1,4 @@
-- 👋 Hi, I’m samet
+- 👋 Hi, I’m Fatih
 - 👀 I’m interested in game develop
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on c# scripts
