@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Fatih
-- 👀 I’m interested in game develop
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on c# scripts
+- 👀 I’m Software developer
 - 📫 How to reach me -- fatihsamedt@gmail.com --
-- itch.io: https://samet372.itch.io/
+- Linkedin: https://www.linkedin.com/in/fatihsamedtaylan/
